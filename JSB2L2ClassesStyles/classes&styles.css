@@ -1,0 +1,23 @@
+body {
+    background-color: #333333;
+}
+.blauw {
+    color: blue;
+    font-size: 10px;
+}
+.geel {
+    color: yellow;
+    font-size: 15;
+}
+.rood {
+    color: red;
+    font-size: 20px;
+}
+.oranje {
+    color: orange;
+    font-size: 25px;
+}
+.groen {
+    color: green;
+    font-size: 30px;
+}
